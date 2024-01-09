@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachith45&label=Profile%20views&color=0e75b6&style=flat" alt="Sachith45" /> </p>
 
-- 📚 I'm from **Centrel College,Telijjawila**
+- 📚 My school **Centrel College,Telijjawila**
 
 - 🌱 I’m currently learning **Computer Science**
 
