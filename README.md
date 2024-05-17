@@ -30,7 +30,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,powershell,arduino,autocad,figma,linux,idea,ps,au,pr,vscode,androidstudio,eclipse,postman,selenium,docker,discord,qt,r,visualstudio,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,github,powershell,arduino,autocad,figma,linux,windows,kali,idea,ps,au,pr,vscode,androidstudio,eclipse,postman,selenium,docker,discord,qt,r,visualstudio,wordpress" />
   </a>
 </p>
 <br/>
