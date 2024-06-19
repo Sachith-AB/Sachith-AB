@@ -45,7 +45,7 @@
 ## Github Activity ✔
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachith-AB&theme=monokai)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachith45&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachith-AB&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sachith45&theme=monokai)
 
