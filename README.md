@@ -37,8 +37,10 @@
 
 ## 🌐 Social Media
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/https://www.facebook.com/sachith.abeywardhana.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sachith.abeywardhana.3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sachithavintha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sachithavintha/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/https://www.facebook.com/sachith.abeywardhana.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
+ generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sachith.abeywardhana.3" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sachithavintha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      
+ generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sachithavintha/" height="30" width="40" /></a>
 </p>
 <br/>
 
@@ -50,3 +52,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sachith-AB&theme=monokai)
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Sachith-AB&theme=soft-green)](https://git.io/streak-stats)
+
+
+## 🏆 GitHub Trophies
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sachith-AB&theme=gruvbox&row=1&column=6&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </a> 
+</p>
