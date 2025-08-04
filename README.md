@@ -37,11 +37,14 @@
 
 ## 🌐 Social Media
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/https://www.facebook.com/sachith.abeywardhana.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
- generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sachith.abeywardhana.3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sachithavintha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      
- generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sachithavintha/" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/sachith.abeywardhana.3" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/sachithavintha/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
+
 <br/>
 
 ## Github Activity ✔
