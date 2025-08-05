@@ -1,23 +1,37 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachith+Avintha+Abeywardhana;From+Matara,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing )](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachith45&label=Profile%20views&color=0e75b6&style=flat" alt="Sachith-AB" /> </p>
 
-- 📚 My school **Centrel College,Telijjawila**
+### Hello! 👋 My name is *Sachith Avintha Abeywardhana*  
+I am from *Matara, Sri Lanka* 🌍 and currently an *Undergraduate at University of Colombo School of Computing (UCSC)* 🎓.
 
-- 🌱 I’m currently learning **Computer Science**
+I have a deep interest in *software engineering, **mobile and web development, and **problem-solving* 💻.  
+I enjoy working with modern technologies and contributing to open-source projects.
 
-- 👨‍💻 All of my projects are available at **this Accoount**
+Currently, I am focusing on:  
+- 🚀 Full-stack development using *React, Node.js, and Spring Boot*  
+- 📱 Cross-platform mobile app development with *Flutter*  
+- 🛠 Exploring *DevOps and Cloud Technologies*  
 
-- 💬 Ask me about **using Facebook or Instagram**
+I love engaging with tech communities and working on projects that make a real-world impact 🌟.
 
-- 📫 How to reach me **..**
+---
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+
+- 📚 My school *Centrel College,Telijjawila*
+
+- 🌱 I’m currently learning *Computer Science*
+
+- 👨‍💻 All of my projects are available at *this Accoount*
+
+- 💬 Ask me about *using Facebook or Instagram*
+
+- 📫 How to reach me *..*
 
 - 📄 Know about my experiences [..](..)
 
-- ⚡ Fun fact **..**
+- ⚡ Fun fact *..*
 
 ## 💻 Tech Stack
 - Languages
@@ -60,6 +74,6 @@
 ## 🏆 GitHub Trophies
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sachith-AB&theme=gruvbox&row=1&column=6&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=Sachith-AB&theme=gruvbox&row=1&column=6&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </a> 
 </p>
