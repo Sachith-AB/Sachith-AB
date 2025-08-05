@@ -9,13 +9,10 @@ I have a deep interest in *software engineering, **mobile and web development, a
 I enjoy working with modern technologies and contributing to open-source projects.
 
 Currently, I am focusing on:  
-- 🚀 Full-stack development using *React, Node.js, and Spring Boot*  
-- 📱 Cross-platform mobile app development with *Flutter*  
-- 🛠 Exploring *DevOps and Cloud Technologies*  
+- 🚀 Full-stack development using *React, Node.js, .Net and Spring Boot*  
+- 📱 Cross-platform mobile app development with *Flutter*
 
 I love engaging with tech communities and working on projects that make a real-world impact 🌟.
-
----
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
