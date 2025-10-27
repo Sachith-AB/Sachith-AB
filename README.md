@@ -34,7 +34,7 @@ I love engaging with tech communities and working on projects that make a real-w
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,scala,html,css,javascript,mongodb,express,php,react,nodejs,mysql,dart,flutter,spring,dotnet" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,scala,html,css,javascript,mongodb,express,php,react,nodejs,mysql,dart,flutter,spring,dotnet" />
   </a>
 </p>
 
